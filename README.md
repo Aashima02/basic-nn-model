@@ -104,12 +104,12 @@ ai.predict(X_n1_1)
 
 ### Test Data Root Mean Squared Error:
 
-<img height="500" src="https://github.com/Aashima02/basic-nn-model/assets/93427086/29dec5d3-187f-491f-b5f4-b90294b4b85e">
+<img src="https://github.com/Aashima02/basic-nn-model/assets/93427086/29dec5d3-187f-491f-b5f4-b90294b4b85e">
 
 
 ### New Sample Data Prediction:
 
-<img height="500" src="https://github.com/Aashima02/basic-nn-model/assets/93427086/1b94db2d-14de-4ef8-b62b-ae7c78db8d57">
+<img src="https://github.com/Aashima02/basic-nn-model/assets/93427086/1b94db2d-14de-4ef8-b62b-ae7c78db8d57">
 
 
 ## RESULT:
