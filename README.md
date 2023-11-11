@@ -13,9 +13,8 @@ Regression helps in establishing a relationship between a dependent variable and
 Build your training and test set from the dataset, here we are making the neural network 3 hidden layer with activation layer as relu and with their nodes in them. Now we will fit our dataset and then predict the value.
 
 ## NEURAL NETWORK MODEL:
-![nnnn](https://github.com/Aashima02/basic-nn-model/assets/93427086/21a17037-96ee-420a-801d-556a4d54c073)
 
-
+<img height="500" src="https://github.com/Aashima02/basic-nn-model/assets/93427086/21a17037-96ee-420a-801d-556a4d54c073">
 
 
 ## DESIGN STEPS
@@ -93,24 +92,24 @@ ai.predict(X_n1_1)
 
 ## DATASET INFORMATION:
 
-![image](https://github.com/Aashima02/basic-nn-model/assets/93427086/c6f062bc-91f8-486d-852b-3c9a8578937e)
+<img height="500" src="https://github.com/Aashima02/basic-nn-model/assets/93427086/c6f062bc-91f8-486d-852b-3c9a8578937e">
 
 
 ## OUTPUT:
 
 ### Training Loss Vs Iteration Plot:
 
-![image](https://github.com/Aashima02/basic-nn-model/assets/93427086/c831c691-939b-4021-b655-f9f038588079)
+<img height="500" src="https://github.com/Aashima02/basic-nn-model/assets/93427086/c831c691-939b-4021-b655-f9f038588079">
 
 
 ### Test Data Root Mean Squared Error:
 
-![image](https://github.com/Aashima02/basic-nn-model/assets/93427086/29dec5d3-187f-491f-b5f4-b90294b4b85e)
+<img height="500" src="https://github.com/Aashima02/basic-nn-model/assets/93427086/29dec5d3-187f-491f-b5f4-b90294b4b85e">
 
 
 ### New Sample Data Prediction:
 
-![image](https://github.com/Aashima02/basic-nn-model/assets/93427086/1b94db2d-14de-4ef8-b62b-ae7c78db8d57)
+<img height="500" src="https://github.com/Aashima02/basic-nn-model/assets/93427086/1b94db2d-14de-4ef8-b62b-ae7c78db8d57">
 
 
 ## RESULT:
