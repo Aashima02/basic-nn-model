@@ -92,14 +92,14 @@ ai.predict(X_n1_1)
 
 ## DATASET INFORMATION:
 
-<img height="500" src="https://github.com/Aashima02/basic-nn-model/assets/93427086/c6f062bc-91f8-486d-852b-3c9a8578937e">
+<img width="200" src="https://github.com/Aashima02/basic-nn-model/assets/93427086/c6f062bc-91f8-486d-852b-3c9a8578937e">
 
 
 ## OUTPUT:
 
 ### Training Loss Vs Iteration Plot:
 
-<img height="500" src="https://github.com/Aashima02/basic-nn-model/assets/93427086/c831c691-939b-4021-b655-f9f038588079">
+<img widtht="150" src="https://github.com/Aashima02/basic-nn-model/assets/93427086/c831c691-939b-4021-b655-f9f038588079">
 
 
 ### Test Data Root Mean Squared Error:
